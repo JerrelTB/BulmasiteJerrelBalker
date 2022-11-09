@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(24, 23, 23);
+}
+
+.section.is-large.bg{
+    background-image: url("img/hero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+}
+  
+.navbar.is-fixed-top.p-3{
+    background-color: rgb(24, 23, 23);
+}
+
+.section.is-medium{
+    background-color: rgb(24, 23, 23);
+    color: aliceblue;
+}
